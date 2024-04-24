@@ -1,2 +1,2 @@
 # cafe24_bill
-cafe24 bill load
+cafe24_bill_load
