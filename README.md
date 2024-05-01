@@ -1,2 +1,2 @@
 # cafe24_bill
-cafe24_bill_load
+cafe24_주문자정보_영수증_발행내역_셀레니움
